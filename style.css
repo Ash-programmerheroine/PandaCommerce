@@ -20,3 +20,40 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.categories h1{
+    color:white;
+    
+}
+.categories img{
+    width:100px;
+}
+.category1,.category2,.category3{
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.category1{
+    background-color: orange;
+}
+.category2{
+    background-color: #ff136f;
+}
+.category3{
+    background-color: blueviolet;
+}
+.card{
+    border:none;
+    border-radius:10px;
+    box-shadow:5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: gray;
+}
+footer{text-align: center;}
